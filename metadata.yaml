@@ -1,0 +1,25 @@
+_repo: Hermelijn_64438
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Melati, van Java
+    aliases:
+    - Sloot, Nicolina Maria Christina
+    - Java, Melati van
+    birthdate: 1853
+    deathdate: 1927
+    gutenberg_agent_id: '47398'
+    url: http://www.gutenberg.org/2009/agents/47398
+description: ''
+gutenberg_issued: '2021-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64438'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Hermelijn
+url: http://www.gutenberg.org/ebooks/64438
